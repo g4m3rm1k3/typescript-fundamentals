@@ -31,3 +31,6 @@ let pt = ProductType.Sports;
 if (pt === ProductType.Sports) {
   console.log('Found sports product type.');
 }
+if (pt === ProductType.Sports) {
+  console.log(ProductType.Sports);
+}
